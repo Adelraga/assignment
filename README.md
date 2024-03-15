@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Screenshot_1710503719](https://github.com/Adelraga/assignment/assets/87029529/50ea6d5a-cc16-4239-bd65-7dbf3a601a63)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
